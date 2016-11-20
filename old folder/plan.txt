@@ -1,0 +1,6 @@
+Peter's idea:
+On "order" page, have various checkboxes with textboxes underneath where users can check what they would generally like us to do, and then specify with depth exactly
+what they would like us to do. Also include a separate textbox where users can specify anything that the checkboxes didn't cover. Also on this page include
+a pay section w/ PayPal. After form / payment get submitted, payment goes through, plan gets sent to us. If plan is obscene, we refund user and let them know that they
+were refunded and why the plan was cancelled.
+ 
